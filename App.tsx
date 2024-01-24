@@ -25,8 +25,9 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import ShareButton from './components/AndroidView';
-import AndroidView from './components/AndroidView';
+import ShareButton from './components/TransferPdfView';
+import AndroidView from './components/TransferPdfView';
+import TransferPdfView from './components/TransferPdfView';
 
 type SectionProps = PropsWithChildren<{
   title: string;
@@ -78,8 +79,8 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Text style={styles.title}>Clinc Alpha</Text>
-          {Platform.OS === 'android' && <AndroidView />}
+          <Text style={styles.title}>Clinic Alphaa</Text>
+          <TransferPdfView />
           {/* <Section title="Step One">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
