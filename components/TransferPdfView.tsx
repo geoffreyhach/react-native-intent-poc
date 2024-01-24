@@ -16,7 +16,7 @@ export type ShareFile = {
   extension?: string;
 };
 
-const AndroidView = (props: Props) => {
+const TransferPdfView = (props: Props) => {
   const [files, setFiles] = useGetShare();
 
   const renderFile = (file: ShareFile, index: number) => {
@@ -26,15 +26,6 @@ const AndroidView = (props: Props) => {
         <Button title="suppr" onPress={() => setFiles(undefined)} />
       </View>
     );
-    // return Object.keys(file).map((key: string, i: number) => {
-    //   if (file[key as keyof typeof file]) {
-    //     return (
-    //       <Text key={key}>
-    //         {key} : {file[key as keyof typeof file]}
-    //       </Text>
-    //     );
-    //   }
-    // });
   };
 
   console.log('files', files);
@@ -74,4 +65,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default AndroidView;
+export default TransferPdfView;
