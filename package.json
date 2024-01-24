@@ -10,8 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.6",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-blob-util": "^0.19.6",
+    "react-native-pdf": "^6.7.4",
+    "react-native-receive-sharing-intent": "^2.0.0",
+    "react-native-share": "^10.0.2",
+    "react-native-svg": "^14.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
