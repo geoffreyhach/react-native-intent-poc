@@ -34,7 +34,7 @@ const TransferPdfView = (props: Props) => {
         <View style={{flex: 1}}>
           <Text>{file.fileName}</Text>
           <Text style={{color: 'grey'}}>
-            100kb {isSending && '- envoi en cours'}
+            -- kb {isSending && '- envoi en cours'}
           </Text>
         </View>
         <Icon

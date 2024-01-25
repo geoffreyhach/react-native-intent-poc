@@ -18,5 +18,6 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 24,
     fontFamily: 'Simplo-Thin',
+    textAlign: 'center',
   },
 });
