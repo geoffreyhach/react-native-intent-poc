@@ -11,12 +11,47 @@
 		03422DBD2B617BEE00EE7549 /* ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03422DBC2B617BEE00EE7549 /* ShareViewController.swift */; };
 		03422DC02B617BEE00EE7549 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03422DBE2B617BEE00EE7549 /* MainInterface.storyboard */; };
 		03422DC42B617BEE00EE7549 /* hopishare.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 03422DBA2B617BEE00EE7549 /* hopishare.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		03422DE02B62653B00EE7549 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DCD2B62653700EE7549 /* Foundation.ttf */; };
+		03422DE12B62653B00EE7549 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DCE2B62653700EE7549 /* MaterialIcons.ttf */; };
+		03422DE22B62653B00EE7549 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DCF2B62653700EE7549 /* Octicons.ttf */; };
+		03422DE32B62653B00EE7549 /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD02B62653800EE7549 /* FontAwesome6_Regular.ttf */; };
+		03422DE42B62653B00EE7549 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD12B62653800EE7549 /* Ionicons.ttf */; };
+		03422DE52B62653B00EE7549 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD22B62653800EE7549 /* EvilIcons.ttf */; };
+		03422DE62B62653B00EE7549 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD32B62653800EE7549 /* FontAwesome5_Brands.ttf */; };
+		03422DE72B62653B00EE7549 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD42B62653900EE7549 /* Feather.ttf */; };
+		03422DE82B62653B00EE7549 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD52B62653900EE7549 /* FontAwesome5_Regular.ttf */; };
+		03422DE92B62653B00EE7549 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD62B62653900EE7549 /* Entypo.ttf */; };
+		03422DEA2B62653B00EE7549 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD72B62653900EE7549 /* FontAwesome.ttf */; };
+		03422DEB2B62653B00EE7549 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD82B62653900EE7549 /* SimpleLineIcons.ttf */; };
+		03422DEC2B62653B00EE7549 /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DD92B62653A00EE7549 /* FontAwesome6_Solid.ttf */; };
+		03422DED2B62653B00EE7549 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DDA2B62653A00EE7549 /* FontAwesome5_Solid.ttf */; };
+		03422DEE2B62653B00EE7549 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DDB2B62653A00EE7549 /* Zocial.ttf */; };
+		03422DEF2B62653B00EE7549 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DDC2B62653A00EE7549 /* MaterialCommunityIcons.ttf */; };
+		03422DF02B62653B00EE7549 /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DDD2B62653B00EE7549 /* FontAwesome6_Brands.ttf */; };
+		03422DF12B62653B00EE7549 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DDE2B62653B00EE7549 /* Fontisto.ttf */; };
+		03422DF22B62653B00EE7549 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03422DDF2B62653B00EE7549 /* AntDesign.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-hopiapp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-hopiapp.a */; };
+		101E8482B1114BF4A6F1D9F9 /* Simplo-BlackIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4BDA19A022EA4FC9939AF22D /* Simplo-BlackIt.otf */; };
+		123EF001E20541749F8288D4 /* Simplo-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8851CD568774BCE812ADAE4 /* Simplo-Light.otf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2EB7CD6680DF479788BC79F8 /* Simplo-It.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8A794F7A1D41418C8C046B7C /* Simplo-It.otf */; };
+		46045A0B9C9A414BA6469C07 /* Simplo-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 964D4F95B55A4220A71540BA /* Simplo-Medium.otf */; };
+		463D1670F230479689719324 /* Simplo-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8E781F5EBE834D9D92032447 /* Simplo-Regular.otf */; };
+		47D4ACC5C66D4081985C5100 /* Simplo-DemiIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 391A2273E5CB4941BDF0AEEB /* Simplo-DemiIt.otf */; };
+		4F92FED858D547A5B80EEC1C /* Simplo-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7BEF75B2D9024BB2A9D50F21 /* Simplo-Black.otf */; };
+		5DF52B3353DE477C800680CA /* Simplo-Demi.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8819CEC590F46D0A1D5ACB9 /* Simplo-Demi.otf */; };
 		7699B88040F8A987B510C191 /* libPods-hopiapp-hopiappTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-hopiapp-hopiappTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8AA0727447D048E38978F982 /* Simplo-LightIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1610D2CF0E2042CEAD4D6F91 /* Simplo-LightIt.otf */; };
+		A1E967E2E07B46689DF0740B /* Simplo-HeavyIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2E6D76BA303C4EEEAAF28F3F /* Simplo-HeavyIt.otf */; };
+		A7AC79AEE7914C3C9796F1F3 /* Simplo-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 363BF06F2B244AC0BCA2E8E4 /* Simplo-Thin.otf */; };
+		AB628B29F6074255A899BB60 /* Simplo-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = F9CE9A5E7E6247EDA9CBE4F6 /* Simplo-Heavy.otf */; };
+		E7E66CB6C1624825B23C5D67 /* Simplo-BoldIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8C312528A13741EF8BA4545D /* Simplo-BoldIt.otf */; };
+		E9A22275ABB84DA4B9CC3253 /* Simplo-ThinIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 42A808F5D3764B3684E1B69C /* Simplo-ThinIt.otf */; };
+		F0139A4A50F044339A5BA00D /* Simplo-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B393823820564B70BDFB78EC /* Simplo-Bold.otf */; };
+		F60ABDB0010F4C67BD4F5999 /* Simplo-MediumIt.otf in Resources */ = {isa = PBXBuildFile; fileRef = B7D95D8130174274914349AC /* Simplo-MediumIt.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,20 +95,55 @@
 		03422DC12B617BEE00EE7549 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03422DC92B617D3E00EE7549 /* hopiapp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = hopiapp.entitlements; path = hopiapp/hopiapp.entitlements; sourceTree = "<group>"; };
 		03422DCA2B617D5200EE7549 /* hopishare.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = hopishare.entitlements; sourceTree = "<group>"; };
+		03422DCD2B62653700EE7549 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		03422DCE2B62653700EE7549 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		03422DCF2B62653700EE7549 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		03422DD02B62653800EE7549 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf"; sourceTree = "<group>"; };
+		03422DD12B62653800EE7549 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		03422DD22B62653800EE7549 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		03422DD32B62653800EE7549 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		03422DD42B62653900EE7549 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		03422DD52B62653900EE7549 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		03422DD62B62653900EE7549 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		03422DD72B62653900EE7549 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		03422DD82B62653900EE7549 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		03422DD92B62653A00EE7549 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf"; sourceTree = "<group>"; };
+		03422DDA2B62653A00EE7549 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
+		03422DDB2B62653A00EE7549 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		03422DDC2B62653A00EE7549 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		03422DDD2B62653B00EE7549 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Brands.ttf"; sourceTree = "<group>"; };
+		03422DDE2B62653B00EE7549 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		03422DDF2B62653B00EE7549 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* hopiapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hopiapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = hopiapp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = hopiapp/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = hopiapp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = hopiapp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = hopiapp/main.m; sourceTree = "<group>"; };
+		1610D2CF0E2042CEAD4D6F91 /* Simplo-LightIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-LightIt.otf"; path = "../assets/fonts/Simplo-LightIt.otf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-hopiapp-hopiappTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-hopiapp-hopiappTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E6D76BA303C4EEEAAF28F3F /* Simplo-HeavyIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-HeavyIt.otf"; path = "../assets/fonts/Simplo-HeavyIt.otf"; sourceTree = "<group>"; };
+		363BF06F2B244AC0BCA2E8E4 /* Simplo-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Thin.otf"; path = "../assets/fonts/Simplo-Thin.otf"; sourceTree = "<group>"; };
+		391A2273E5CB4941BDF0AEEB /* Simplo-DemiIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-DemiIt.otf"; path = "../assets/fonts/Simplo-DemiIt.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-hopiapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopiapp.debug.xcconfig"; path = "Target Support Files/Pods-hopiapp/Pods-hopiapp.debug.xcconfig"; sourceTree = "<group>"; };
+		42A808F5D3764B3684E1B69C /* Simplo-ThinIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-ThinIt.otf"; path = "../assets/fonts/Simplo-ThinIt.otf"; sourceTree = "<group>"; };
+		4BDA19A022EA4FC9939AF22D /* Simplo-BlackIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-BlackIt.otf"; path = "../assets/fonts/Simplo-BlackIt.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-hopiapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopiapp.release.xcconfig"; path = "Target Support Files/Pods-hopiapp/Pods-hopiapp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-hopiapp-hopiappTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopiapp-hopiappTests.debug.xcconfig"; path = "Target Support Files/Pods-hopiapp-hopiappTests/Pods-hopiapp-hopiappTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-hopiapp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-hopiapp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7BEF75B2D9024BB2A9D50F21 /* Simplo-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Black.otf"; path = "../assets/fonts/Simplo-Black.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = hopiapp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-hopiapp-hopiappTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hopiapp-hopiappTests.release.xcconfig"; path = "Target Support Files/Pods-hopiapp-hopiappTests/Pods-hopiapp-hopiappTests.release.xcconfig"; sourceTree = "<group>"; };
+		8A794F7A1D41418C8C046B7C /* Simplo-It.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-It.otf"; path = "../assets/fonts/Simplo-It.otf"; sourceTree = "<group>"; };
+		8C312528A13741EF8BA4545D /* Simplo-BoldIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-BoldIt.otf"; path = "../assets/fonts/Simplo-BoldIt.otf"; sourceTree = "<group>"; };
+		8E781F5EBE834D9D92032447 /* Simplo-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Regular.otf"; path = "../assets/fonts/Simplo-Regular.otf"; sourceTree = "<group>"; };
+		964D4F95B55A4220A71540BA /* Simplo-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Medium.otf"; path = "../assets/fonts/Simplo-Medium.otf"; sourceTree = "<group>"; };
+		B393823820564B70BDFB78EC /* Simplo-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Bold.otf"; path = "../assets/fonts/Simplo-Bold.otf"; sourceTree = "<group>"; };
+		B7D95D8130174274914349AC /* Simplo-MediumIt.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-MediumIt.otf"; path = "../assets/fonts/Simplo-MediumIt.otf"; sourceTree = "<group>"; };
+		C8819CEC590F46D0A1D5ACB9 /* Simplo-Demi.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Demi.otf"; path = "../assets/fonts/Simplo-Demi.otf"; sourceTree = "<group>"; };
+		C8851CD568774BCE812ADAE4 /* Simplo-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Light.otf"; path = "../assets/fonts/Simplo-Light.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F9CE9A5E7E6247EDA9CBE4F6 /* Simplo-Heavy.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Simplo-Heavy.otf"; path = "../assets/fonts/Simplo-Heavy.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,9 +201,36 @@
 			path = hopishare;
 			sourceTree = "<group>";
 		};
+		03422DCC2B6264D400EE7549 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				03422DDF2B62653B00EE7549 /* AntDesign.ttf */,
+				03422DD62B62653900EE7549 /* Entypo.ttf */,
+				03422DD22B62653800EE7549 /* EvilIcons.ttf */,
+				03422DD42B62653900EE7549 /* Feather.ttf */,
+				03422DD72B62653900EE7549 /* FontAwesome.ttf */,
+				03422DD32B62653800EE7549 /* FontAwesome5_Brands.ttf */,
+				03422DD52B62653900EE7549 /* FontAwesome5_Regular.ttf */,
+				03422DDA2B62653A00EE7549 /* FontAwesome5_Solid.ttf */,
+				03422DDD2B62653B00EE7549 /* FontAwesome6_Brands.ttf */,
+				03422DD02B62653800EE7549 /* FontAwesome6_Regular.ttf */,
+				03422DD92B62653A00EE7549 /* FontAwesome6_Solid.ttf */,
+				03422DDE2B62653B00EE7549 /* Fontisto.ttf */,
+				03422DCD2B62653700EE7549 /* Foundation.ttf */,
+				03422DD12B62653800EE7549 /* Ionicons.ttf */,
+				03422DDC2B62653A00EE7549 /* MaterialCommunityIcons.ttf */,
+				03422DCE2B62653700EE7549 /* MaterialIcons.ttf */,
+				03422DCF2B62653700EE7549 /* Octicons.ttf */,
+				03422DD82B62653900EE7549 /* SimpleLineIcons.ttf */,
+				03422DDB2B62653A00EE7549 /* Zocial.ttf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		13B07FAE1A68108700A75B9A /* hopiapp */ = {
 			isa = PBXGroup;
 			children = (
+				03422DCC2B6264D400EE7549 /* Fonts */,
 				03422DC92B617D3E00EE7549 /* hopiapp.entitlements */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
@@ -172,6 +269,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A1B68C49FD0A47DE9BC96F94 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -186,6 +284,29 @@
 				03422DBA2B617BEE00EE7549 /* hopishare.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A1B68C49FD0A47DE9BC96F94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7BEF75B2D9024BB2A9D50F21 /* Simplo-Black.otf */,
+				4BDA19A022EA4FC9939AF22D /* Simplo-BlackIt.otf */,
+				B393823820564B70BDFB78EC /* Simplo-Bold.otf */,
+				8C312528A13741EF8BA4545D /* Simplo-BoldIt.otf */,
+				C8819CEC590F46D0A1D5ACB9 /* Simplo-Demi.otf */,
+				391A2273E5CB4941BDF0AEEB /* Simplo-DemiIt.otf */,
+				F9CE9A5E7E6247EDA9CBE4F6 /* Simplo-Heavy.otf */,
+				2E6D76BA303C4EEEAAF28F3F /* Simplo-HeavyIt.otf */,
+				8A794F7A1D41418C8C046B7C /* Simplo-It.otf */,
+				C8851CD568774BCE812ADAE4 /* Simplo-Light.otf */,
+				1610D2CF0E2042CEAD4D6F91 /* Simplo-LightIt.otf */,
+				964D4F95B55A4220A71540BA /* Simplo-Medium.otf */,
+				B7D95D8130174274914349AC /* Simplo-MediumIt.otf */,
+				8E781F5EBE834D9D92032447 /* Simplo-Regular.otf */,
+				363BF06F2B244AC0BCA2E8E4 /* Simplo-Thin.otf */,
+				42A808F5D3764B3684E1B69C /* Simplo-ThinIt.otf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -325,7 +446,42 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				03422DE92B62653B00EE7549 /* Entypo.ttf in Resources */,
+				03422DE32B62653B00EE7549 /* FontAwesome6_Regular.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				4F92FED858D547A5B80EEC1C /* Simplo-Black.otf in Resources */,
+				03422DE62B62653B00EE7549 /* FontAwesome5_Brands.ttf in Resources */,
+				101E8482B1114BF4A6F1D9F9 /* Simplo-BlackIt.otf in Resources */,
+				03422DEA2B62653B00EE7549 /* FontAwesome.ttf in Resources */,
+				03422DE82B62653B00EE7549 /* FontAwesome5_Regular.ttf in Resources */,
+				03422DED2B62653B00EE7549 /* FontAwesome5_Solid.ttf in Resources */,
+				03422DF02B62653B00EE7549 /* FontAwesome6_Brands.ttf in Resources */,
+				F0139A4A50F044339A5BA00D /* Simplo-Bold.otf in Resources */,
+				E7E66CB6C1624825B23C5D67 /* Simplo-BoldIt.otf in Resources */,
+				5DF52B3353DE477C800680CA /* Simplo-Demi.otf in Resources */,
+				47D4ACC5C66D4081985C5100 /* Simplo-DemiIt.otf in Resources */,
+				AB628B29F6074255A899BB60 /* Simplo-Heavy.otf in Resources */,
+				03422DEC2B62653B00EE7549 /* FontAwesome6_Solid.ttf in Resources */,
+				03422DE02B62653B00EE7549 /* Foundation.ttf in Resources */,
+				03422DF12B62653B00EE7549 /* Fontisto.ttf in Resources */,
+				03422DE22B62653B00EE7549 /* Octicons.ttf in Resources */,
+				A1E967E2E07B46689DF0740B /* Simplo-HeavyIt.otf in Resources */,
+				03422DEB2B62653B00EE7549 /* SimpleLineIcons.ttf in Resources */,
+				03422DE52B62653B00EE7549 /* EvilIcons.ttf in Resources */,
+				2EB7CD6680DF479788BC79F8 /* Simplo-It.otf in Resources */,
+				03422DE12B62653B00EE7549 /* MaterialIcons.ttf in Resources */,
+				123EF001E20541749F8288D4 /* Simplo-Light.otf in Resources */,
+				8AA0727447D048E38978F982 /* Simplo-LightIt.otf in Resources */,
+				46045A0B9C9A414BA6469C07 /* Simplo-Medium.otf in Resources */,
+				03422DE42B62653B00EE7549 /* Ionicons.ttf in Resources */,
+				F60ABDB0010F4C67BD4F5999 /* Simplo-MediumIt.otf in Resources */,
+				03422DEE2B62653B00EE7549 /* Zocial.ttf in Resources */,
+				03422DE72B62653B00EE7549 /* Feather.ttf in Resources */,
+				03422DEF2B62653B00EE7549 /* MaterialCommunityIcons.ttf in Resources */,
+				463D1670F230479689719324 /* Simplo-Regular.otf in Resources */,
+				A7AC79AEE7914C3C9796F1F3 /* Simplo-Thin.otf in Resources */,
+				E9A22275ABB84DA4B9CC3253 /* Simplo-ThinIt.otf in Resources */,
+				03422DF22B62653B00EE7549 /* AntDesign.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

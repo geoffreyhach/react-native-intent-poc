@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Simplo-Black.otf",
+      "sha1": "e03171b0129f8274e6931ce323206da680b307bb"
+    },
+    {
+      "path": "assets/fonts/Simplo-BlackIt.otf",
+      "sha1": "b19bd0da30c1dfa7654bd1842af8c10eb592a689"
+    },
+    {
+      "path": "assets/fonts/Simplo-Bold.otf",
+      "sha1": "fbbe621ed3c2a72fcd17cb3676c0577b78a0d3a4"
+    },
+    {
+      "path": "assets/fonts/Simplo-BoldIt.otf",
+      "sha1": "3acc5a10c194d3395220870b576f7cad64aa2c98"
+    },
+    {
+      "path": "assets/fonts/Simplo-Demi.otf",
+      "sha1": "1afa987612fdccb715a16b08ab4078b3bf574f25"
+    },
+    {
+      "path": "assets/fonts/Simplo-DemiIt.otf",
+      "sha1": "1263cf869a8015087e8cb9463f41ae0a4c504849"
+    },
+    {
+      "path": "assets/fonts/Simplo-Heavy.otf",
+      "sha1": "6eaa436124e4e9a89a760a59c134eca5c2e6d255"
+    },
+    {
+      "path": "assets/fonts/Simplo-HeavyIt.otf",
+      "sha1": "223279d004260ab00e71e14f9d99a21d89996b03"
+    },
+    {
+      "path": "assets/fonts/Simplo-It.otf",
+      "sha1": "40c8686afa809df5465b88a27a8cbecdef417686"
+    },
+    {
+      "path": "assets/fonts/Simplo-Light.otf",
+      "sha1": "b495c24ac52b49ef8dcb3e13b13e7db4980cbc32"
+    },
+    {
+      "path": "assets/fonts/Simplo-LightIt.otf",
+      "sha1": "31272237cb2650c37e5ab3f86dc93e835b25bdd5"
+    },
+    {
+      "path": "assets/fonts/Simplo-Medium.otf",
+      "sha1": "cea8fe76a2d91ce7789c7970e4736bdb7e4537b3"
+    },
+    {
+      "path": "assets/fonts/Simplo-MediumIt.otf",
+      "sha1": "854e73326f8dd8fd7c9f5c0e89ab429c2a312053"
+    },
+    {
+      "path": "assets/fonts/Simplo-Regular.otf",
+      "sha1": "2a222c57ce6dee47c15694b00859b2329b01a84e"
+    },
+    {
+      "path": "assets/fonts/Simplo-Thin.otf",
+      "sha1": "423866c2f6640e27d14dd1125a5dc0ef55487749"
+    },
+    {
+      "path": "assets/fonts/Simplo-ThinIt.otf",
+      "sha1": "02f8912c29d48ab32c803b047ed82c0043e2cb17"
+    }
+  ]
+}
