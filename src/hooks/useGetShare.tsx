@@ -15,7 +15,9 @@ export default function useGetShare(): [
   ShareFile[] | undefined,
   React.Dispatch<React.SetStateAction<ShareFile[] | undefined>>,
 ] {
-  const [files, setFiles] = useState<ShareFile[] | undefined>(undefined);
+  const [files, setFiles] = useState<ShareFile[] | undefined>([
+    {fileName: 'titre defaut'},
+  ]);
 
   useEffect(() => {
     console.log('fired');
